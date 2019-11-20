@@ -10,7 +10,7 @@ dhclient
 dialog
 dmraid
 dnsmasq
-dnsutils
+#dnsutils
 dosfstools
 elinks
 ethtool
@@ -56,7 +56,7 @@ sudo
 tcpdump
 testdisk
 usb_modeswitch
-vim-minimal
+#vim-minimal
 vpnc
 wget
 wireless-regdb
